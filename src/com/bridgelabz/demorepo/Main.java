@@ -6,6 +6,10 @@ public class Main
     {
         System.out.println("welcome to add method");
     }
+    public static void delete()
+    {
+        System.out.println("welcome to delete method");
+    }
 
     public static void main(String[] args)
     {
