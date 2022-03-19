@@ -4,7 +4,7 @@ public class Main
 {
     public static void add()
     {
-
+        System.out.println("welcome to add method");
     }
 
     public static void main(String[] args)
