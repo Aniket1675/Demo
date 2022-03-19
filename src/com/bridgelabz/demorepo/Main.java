@@ -8,7 +8,7 @@ public class Main
     }
     public static void delete()
     {
-
+        System.out.println("welcome to delete method");
     }
 
     public static void main(String[] args)
